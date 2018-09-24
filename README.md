@@ -1,5 +1,6 @@
 # filesync
-Before testing the project, download node modules.
+HTML+CSS+Bootstrap+React
+Download node modules before testing.
 
-Use this command in terminal----
-npm install 
+Use---npm install---command in terminal to download modules.
+ 
